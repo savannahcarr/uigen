@@ -7,7 +7,7 @@ AI-powered React component generator with live preview.
 - Node.js 18+
 - npm
 
-## Setup
+## Setup 
 
 1. **Optional** Edit `.env` and replace `your-api-key-here` with your Anthropic API key from [console.anthropic.com](https://console.anthropic.com/settings/keys):
 
